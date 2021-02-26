@@ -12,7 +12,6 @@ namespace MeteoStation
         public int cptOctet { get; set; }
         public int Type { get; set; }
         public int checksum { get; set; }
-        
         public String data { get; set; }
     }
 }
